@@ -16,5 +16,10 @@ namespace WinFormAdv
         {
             InitializeComponent();
         }
+
+        private void 확대하기축소하기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
